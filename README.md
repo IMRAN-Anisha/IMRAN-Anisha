@@ -13,8 +13,11 @@ When not coding, you’ll find me exploring philosophy, amazed by the stars, or 
 — Always exploring how technology and creativity influence each other. Deeply curious about the future of AI, ethics, and tech in education.
 
 🌱 Currently learning: Next.js, React, and UI/UX design
+
 💡 Favourite topics: productivity, and tech for good
+
 🎯 Goal: to build software that inspire and make a difference
 
 📫 Find me online: 
+
 [LinkedIn](www.linkedin.com/in/anisha-imran0311) • [Projects](https://github.com/IMRAN-Anisha?tab=repositories)
