@@ -20,6 +20,4 @@ When not coding, you’ll find me exploring philosophy, amazed by the stars, or 
 
 📫 Find me online: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311)  
-&nbsp;🌙&nbsp;  
-[![Projects](https://img.shields.io/badge/Projects-View-ff69b4?style=for-the-badge)](https://github.com/IMRAN-Anisha?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • [![Projects](https://img.shields.io/badge/Projects-ff69b4?style=for-the-badge)](https://github.com/IMRAN-Anisha?tab=repositories)
