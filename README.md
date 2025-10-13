@@ -9,8 +9,8 @@ Currently exploring everything from front-end development with React and Tailwin
 Some recent projects include Community Connect, a volunteer matching web app, 
 and BlueByte, an educational platform co-founded to make coding more accessible to students.
 
-When not coding, you’ll find me exploring philosophy, amazed by the stars, or sipping coffee.
-— Always exploring how technology and creativity influence each other. Deeply curious about the future of AI, ethics, and tech in education.
+When not coding, you’ll find me exploring new skills, amazed by the stars, or sipping coffee.
+— Deeply curious about the future of AI, ethics, and tech in education.
 
 🌱 Currently learning: Next.js, React, and UI/UX design
 
