@@ -9,7 +9,7 @@ Currently exploring everything from front-end development with React and Tailwin
 Some recent projects include Community Connect, a volunteer matching web app, 
 and BlueByte, an educational platform co-founded to make coding more accessible to students.
 
-When not coding, you’ll find me exploring new skills, amazed by the stars, or sipping coffee.
+When not coding, you’ll find me exploring new skills, amazed by the stars, or enjoying coffee.
 — Deeply curious about the future of AI, ethics, and tech in education.
 
 🌱 Currently learning: Next.js, React, and UI/UX design
@@ -20,4 +20,4 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 
 📫 Find me online: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • [![Projects](https://img.shields.io/badge/Projects-ff69b4?style=for-the-badge)](https://github.com/IMRAN-Anisha?tab=repositories) • (major project coming soon...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • [![Projects](https://img.shields.io/badge/Projects-ff69b4?style=for-the-badge)](https://github.com/IMRAN-Anisha?tab=repositories) • 
