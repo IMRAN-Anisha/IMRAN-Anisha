@@ -1,4 +1,4 @@
-👋 Hi there! I’m [Anisha](imran-anisha.github.io)
+👋 Hi there! I’m [Anisha](https:/imran-anisha.github.io)
 
 A student, developer, and problem-solver, passionate about blending creativity and technology to build meaningful experiences.
 
