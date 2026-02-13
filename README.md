@@ -20,7 +20,7 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 
 📫 Find me online: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • 
 [![Projects](https://img.shields.io/badge/Projects-ff69b4?style=for-the-badge)](https://github.com/IMRAN-Anisha?tab=repositories) • 
-[![Newsletter](https://img.shields.io/badge/Newsletter-28a745?style=for-the-badge)](https://the-insight-letter.beehiiv.com)
-
+[![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com)
+<!-- [![Textbook](https://img.shields.io/badge/Textbook-28a745?style=for-the-badge)](https://your-link-here) -->
