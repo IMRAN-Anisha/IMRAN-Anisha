@@ -12,7 +12,7 @@ and BlueByte, an educational platform co-founded to make coding more accessible 
 When not coding, you’ll find me exploring new skills, amazed by the stars, or enjoying coffee.
 — Deeply curious about the future of AI, ethics, and tech in education.
 
-🌱 Currently learning: Next.js, React, and UI/UX design
+🌱 Currently learning: Java, React, and UI/UX design
 
 💡 Favourite topics: productivity, and tech for good
 
@@ -22,5 +22,6 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • 
 [![Projects](https://img.shields.io/badge/Projects-ff69b4?style=for-the-badge)](https://github.com/IMRAN-Anisha?tab=repositories) • 
-[![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com)
+[![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com) •
+[![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/)
 <!-- [![Textbook](https://img.shields.io/badge/Textbook-28a745?style=for-the-badge)](https://your-link-here) -->
