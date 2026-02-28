@@ -24,4 +24,6 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 [![Projects](https://img.shields.io/badge/Projects-ff69b4?style=for-the-badge)](https://github.com/IMRAN-Anisha?tab=repositories) • 
 [![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com) •
 [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/)
+[![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-2E7D32?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/)
+[![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-00897B?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/)
 <!-- [![Textbook](https://img.shields.io/badge/Textbook-28a745?style=for-the-badge)](https://your-link-here) -->
