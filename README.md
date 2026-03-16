@@ -21,7 +21,7 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 📫 Find me online: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4DA6?style=for-the-badge&logo=firefox&logoColor=white)](https://imran-anisha.github.io) • 
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF4DA6?style=for-the-badge)](https://imran-anisha.github.io) • 
 [![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com) •
 [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/)
 <!-- [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-2E7D32?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/) -->
