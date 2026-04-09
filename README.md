@@ -23,7 +23,8 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4DA6?style=for-the-badge)](https://imran-anisha.github.io) • 
 [![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com) •
-[![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/)
+[![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/) •
+[![Ascend Realty Systems](https://img.shields.io/badge/Oz%20Scholars%20Academy-F57C00?style=for-the-badge)](http://ascendrealtysystems.com.au)
 <!-- [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-2E7D32?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/) -->
 <!-- [![Textbook](https://img.shields.io/badge/Textbook-28a745?style=for-the-badge)](https://your-link-here) -->
 💻 Languages & Tools:
