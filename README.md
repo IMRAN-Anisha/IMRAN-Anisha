@@ -24,7 +24,7 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4DA6?style=for-the-badge)](https://imran-anisha.github.io) • 
 [![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com) •
 [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/) •
-[![Ascend Realty Systems](https://img.shields.io/badge/Ascend-Realty%20Systems-F57C00?style=for-the-badge)](http://ascendrealtysystems.com.au)
+[![Ascend Realty Systems](https://img.shields.io/badge/Ascend%20Realty%20Systems-F57C00?style=for-the-badge&labelColor=F57C00)](http://ascendrealtysystems.com.au)
 <!-- [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-2E7D32?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/) -->
 <!-- [![Textbook](https://img.shields.io/badge/Textbook-28a745?style=for-the-badge)](https://your-link-here) -->
 💻 Languages & Tools:
