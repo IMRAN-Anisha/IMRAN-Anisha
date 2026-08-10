@@ -14,7 +14,7 @@ A student, developer, and problem-solver, passionate about blending creativity a
 TypeScript · JavaScript · Python · Java · C++ · SQL
 
 **Frameworks & Tools**
-React · Next.js · Tailwind CSS · Node.js · Git · GitHub · Supabase · Vercel
+React · Next.js · Tailwind CSS · Stripe · Git · GitHub · Supabase · Vercel
 
 When not coding, you’ll find me exploring new skills, amazed by the stars, or enjoying coffee.
 
@@ -28,13 +28,11 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 
 📫 Find me online: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran0311) • 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge)](https://www.linkedin.com/in/anisha-imran) • 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4DA6?style=for-the-badge)](https://imran-anisha.github.io) • 
 [![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com) •
-[![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/) •
-[![Ascend Realty Systems](https://img.shields.io/badge/Ascend%20Realty%20Systems-F57C00?style=for-the-badge&labelColor=F57C00)](http://ascendrealtysystems.com.au)
-<!-- [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-2E7D32?style=for-the-badge)](https://imran-anisha.github.io/oz-scholars-academy.info.au/) -->
-<!-- [![Textbook](https://img.shields.io/badge/Textbook-28a745?style=for-the-badge)](https://your-link-here) -->
+[![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://ozscholarsacademy.com.au) •
+
 💻 Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,4 +40,4 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
