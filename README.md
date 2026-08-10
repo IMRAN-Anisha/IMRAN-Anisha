@@ -2,13 +2,13 @@
 
 A student, developer, and problem-solver, passionate about blending creativity and technology to build meaningful experiences.
 
-## What I'm building
+**What I'm building**
 
 **Avey** — a personal AI companion focused on bringing fragmented life-management tools into one experience.
 
 **Juurnee** — a travel companion marketplace and platform with 17K active users.
 
-## Tech
+**Tech**
 
 **Languages**
 TypeScript · JavaScript · Python · Java · C++ · SQL
@@ -19,6 +19,7 @@ React · Next.js · Tailwind CSS · Stripe · Git · GitHub · Supabase · Verce
 When not coding, you’ll find me exploring new skills, amazed by the stars, or enjoying coffee.
 
 — Deeply curious about the future of AI, ethics, and tech in education.
+
 
 🌱 Currently learning: Java, C++, and UI/UX design
 
@@ -33,6 +34,7 @@ When not coding, you’ll find me exploring new skills, amazed by the stars, or 
 [![Newsletter](https://img.shields.io/badge/Newsletter-FFA500?style=for-the-badge)](https://the-insight-letter.beehiiv.com) •
 [![Oz Scholars Academy](https://img.shields.io/badge/Oz%20Scholars%20Academy-FBC02D?style=for-the-badge)](https://ozscholarsacademy.com.au) •
 
+<!--
 💻 Languages & Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
